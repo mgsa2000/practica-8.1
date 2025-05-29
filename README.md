@@ -50,3 +50,19 @@ entraremos en la pestaña de SSL/TLS Certificates desde el Dashboard del dominio
 
 Alactivarlo podremos ver que nuestro sitio es seguro
 ![](imagenes/888.png)
+
+
+## despliegue de wordpress con wp toolkit
+
+Por último vamos a proceder a instalar wordpress de forma sencilla a través de  WP Toolkit.
+
+Vamos a Applications y el Scan encontrará la instalación de Wordpress, pulsamos en instalar.
+
+
+![](imagenes/999.png)
+
+![](imagenes/2.png)
+
+Ya podemos modificar nuestro sitio como queramos
+
+![](imagenes/1.png)
